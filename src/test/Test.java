@@ -5,5 +5,6 @@ public class Test {
 		System.out.print("test");
 		System.out.print("ly");
 		System.out.print("hh");
+		System.out.print("hh");
 	}
 }
